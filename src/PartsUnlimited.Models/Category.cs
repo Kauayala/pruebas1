@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    // los cambios del 16 de mayo del 2024
     public class Category
     {
         public int CategoryId { get; set; }
