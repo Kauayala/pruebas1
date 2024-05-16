@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     // nuevo cambio para subirlo al sistema
+    // cualquier cambio 
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
