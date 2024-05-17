@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
 {
     // nuevo cambio para subirlo al sistema
     // cualquier cambio 
+    // un cambio nuevo 
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
