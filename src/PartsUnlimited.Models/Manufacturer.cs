@@ -5,9 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    // nuevo cambio para subirlo al sistema
-    // cualquier cambio 
-    // un cambio nuevo 
+    // se filtra la informacion de los cambios 17 de mayo
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
