@@ -1,4 +1,4 @@
-﻿# How to contribute
+﻿# How to contribute [cambio local para el conflicto 17 de mayo]
 
 One of the easiest ways to contribute is to participate in discussions and discuss issues. You can also contribute by submitting pull requests with code changes.
 
